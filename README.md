@@ -35,7 +35,7 @@ This repository contains a Deep Learning pipeline for recognizing 62 different h
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/english-handwriting-recog.git
+   git clone https://github.com/MehdiD0/English-Handwriting-Recognition.git
    cd english-handwriting-recog
    ```
 
