@@ -21,9 +21,11 @@ This repository contains a Deep Learning pipeline for recognizing 62 different h
 ```
 
 ## 🚀 Performance & Results
+
 <p align="center">
   <img src="conf_mat.png" width="600">
 </p>
+
 - **Model:** EfficientNet_V2_S (Transfer Learning)
 - **Accuracy:** ~89.15%
 - **Loss:** CrossEntropy with Label Smoothing (0.1)
